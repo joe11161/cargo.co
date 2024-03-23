@@ -10,6 +10,9 @@ Welcome to Cargo - your all-in-one solution for efficient cargo management and l
 
 Cargo is a robust and user-friendly platform designed to streamline the process of managing cargo transportation, from booking shipments to tracking deliveries. Whether you're a small business shipping products locally or a large enterprise managing global supply chains, Cargo has you covered.
 
+![Screenshot from 2024-03-23 18-56-00](https://github.com/habert-kungu/cargo.co/assets/147383053/4e8a5c00-dad7-4b39-be93-04a51e379cf3)
+
+
 ## Features
 
 - **Easy Booking:** Seamlessly book shipments with just a few clicks.
