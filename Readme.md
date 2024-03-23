@@ -22,5 +22,7 @@ Cargo is a robust and user-friendly platform designed to streamline the process 
 - **Secure Payments:** Secure payment gateways for hassle-free transactions.
 - **Responsive Support:** Dedicated customer support to assist you every step of the way.
 
+![Screenshot from 2024-03-23 18-59-55](https://github.com/habert-kungu/cargo.co/assets/147383053/94dcdb56-a2a5-482a-859f-a0af97b12ab8)
+
 
 
